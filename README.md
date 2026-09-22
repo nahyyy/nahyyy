@@ -3,7 +3,7 @@
 B.S. Humanities, Computing, and Design @ Rochester Institute of Technology (RIT), Class of 2027
 Minor in 3D Studio Arts
 
-Bilingual Humanities, Computing, and Design student at the Rochester Institute of Technology, bridging creative design and digital technology. Proficient in Adobe Illustrator and Photoshop, front-end development (HTML/CSS), project management, and experience leading visual branding and communications initiatives for a student organization. Committed to applying strong organizational and design skills to support institutional and client-facing objectives.<img width="468" height="74" alt="image" src="https://github.com/user-attachments/assets/c7584c70-6053-433f-980a-0a0ffcaede6e" />
+Bilingual Humanities, Computing, and Design student at the Rochester Institute of Technology, bridging creative design and digital technology. Proficient in Adobe Illustrator and Photoshop, front-end development (HTML/CSS), project management, and experience leading visual branding and communications initiatives for a student organization. Committed to applying strong organizational and design skills to support institutional and client-facing objectives.
 
 
 ## What I work with
