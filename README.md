@@ -1,4 +1,22 @@
-## Hi there 👋
+# Hi, I'm Anahy 👋
+
+B.S. Humanities, Computing, and Design @ Rochester Institute of Technology (RIT), Class of 2027
+Minor in 3D Studio Arts
+
+I build websites that turn research and ideas into clear, well-designed digital experiences — combining front-end development with a background in writing and design.
+
+## What I work with
+`HTML5` `CSS3` `JavaScript` `PHP` `MySQL` `Responsive Design`
+
+## Featured Projects
+- **[Discovering Washington, D.C.](https://github.com/nahyyy/Discovering-Washington-DC)** — Multi-page site exploring a place I've lived, with content, navigation, and design built in HTML5/CSS3.
+- **[AI in Healthcare — Styled Site](https://github.com/nahyyy/Styled-Website-Healthcare-)** — Research essay turned into an interactive single-page reading experience.
+- **[AI in Healthcare — Multi-Page Site](https://github.com/nahyyy/Multi-Page-Website-Healthcare-)** — Continuation project expanding the essay into a full responsive, multi-page site.
+
+## Beyond code
+Vice President of the Latin American Student Association at RIT. Interested in the intersection of technology, design, and Latino/a culture and history.
+
+📫 Reach me: anahyramirez10@gmail.com
 
 <!--
 **nahyyy/nahyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
